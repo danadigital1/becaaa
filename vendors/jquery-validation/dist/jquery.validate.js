@@ -1,0 +1,1 @@
+No Content: https://tariflayanan.uk/vendors/jquery-validation/dist/jquery.validate.js
